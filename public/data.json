@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "first_name": "Farrah",
+    "last_name": "Igo",
+    "email": "figo0@addthis.com",
+    "gender": "Female",
+    "ip_address": "236.138.64.227"
+  },
+  {
+    "id": 2,
+    "first_name": "Harv",
+    "last_name": "Sine",
+    "email": "hsine1@freewebs.com",
+    "gender": "Male",
+    "ip_address": "8.197.48.224"
+  },
+  {
+    "id": 3,
+    "first_name": "Jemimah",
+    "last_name": "Hanniger",
+    "email": "jhanniger2@mozilla.com",
+    "gender": "Female",
+    "ip_address": "102.126.124.187"
+  },
+  {
+    "id": 4,
+    "first_name": "Bianca",
+    "last_name": "Macro",
+    "email": "bmacro3@diigo.com",
+    "gender": "Female",
+    "ip_address": "236.73.107.232"
+  },
+  {
+    "id": 5,
+    "first_name": "Jada",
+    "last_name": "Sackey",
+    "email": "jsackey4@flavors.me",
+    "gender": "Female",
+    "ip_address": "126.252.247.106"
+  }
+]
